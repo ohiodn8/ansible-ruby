@@ -1,0 +1,4 @@
+[webservers]
+## 173.10.2.25
+
+localhost ansible_connection=local
